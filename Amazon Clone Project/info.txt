@@ -1,0 +1,2 @@
+cdn - content delivery network
+cdn aapke location ke sabse paas server se hume connect krta hai
